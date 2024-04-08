@@ -76,4 +76,4 @@ $f(x) = C_{1}x_{1} + C_{2}x_{2} -> max(min)$
 1. Vẽ hình theo các ràng buộc thành các đường thẳng bao gồm cả ràng buộc về dấu
 2. Xác định miền hợp lệ
 3. Xác định patu thông qua việc thử và sai các điểm  còn trong miền hợp lệ và do các đường thẳng từ các ràng buộc giao nhau hoặc xác định $\vecto(OC)$ với C có tọa độ $C_{1}, C_{2}$
-![[Pasted image 20240408150602.png]]
+![](543907f02dbef9651533a193ce31423a.png)
