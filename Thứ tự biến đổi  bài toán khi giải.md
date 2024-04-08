@@ -1,0 +1,2 @@
+
+Chính tắc -> Chuẩn -> min
