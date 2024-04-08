@@ -1,5 +1,5 @@
 # Quy tắc đổi dấu
-![](Quy%20tắc%20đổi%20dấu%20trong%20bài%20toán%20đối%20ngẫu)
+![](Quy%20tắc%20đổi%20dấu%20trong%20bài%20toán%20đối%20ngẫu.md)
 ![](f40b78afa61843c787449c684dce246c.png)
 ![](dc63cca564ee399662ab94457b610a8a.png)
 ==Lưu ý: ==
